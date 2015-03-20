@@ -6,4 +6,5 @@ CMP237
 fancyCells homework - homeworkMountains repo
 use the d8 interpreter, run printDataC.js
 buildings.js is the dataset that I'm using.
+I'll be doing the regexp golf problem.
 </pre>
